@@ -7,7 +7,7 @@ This project implements **OpenFlow-Random Host Mutation(OF-RHM)** strategy in **
 - Mitigate the effectiveness of reconnaissance tools (e.g., Nmap).
 - Maintain connection stability without disrupting ongoing sessions.
 
-## 🧩 Key Features
+## Key Features
 
 - **Real-to-Virtual IP Mapping**: Each host has a real IP and a rotating virtual IP.
 - **Session-Aware Mutation**: Delays IP changes if an active session is ongoing.
